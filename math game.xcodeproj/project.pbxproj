@@ -14,6 +14,7 @@
 		751D129C29FD9CA60028B33C /* math_gameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 751D129B29FD9CA60028B33C /* math_gameTests.swift */; };
 		751D12A629FD9CA60028B33C /* math_gameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 751D12A529FD9CA60028B33C /* math_gameUITests.swift */; };
 		751D12A829FD9CA60028B33C /* math_gameUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 751D12A729FD9CA60028B33C /* math_gameUITestsLaunchTests.swift */; };
+		751D12B529FD9DDA0028B33C /* answer button .swift in Sources */ = {isa = PBXBuildFile; fileRef = 751D12B429FD9DDA0028B33C /* answer button .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		751D12A129FD9CA60028B33C /* math gameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "math gameUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		751D12A529FD9CA60028B33C /* math_gameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = math_gameUITests.swift; sourceTree = "<group>"; };
 		751D12A729FD9CA60028B33C /* math_gameUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = math_gameUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		751D12B429FD9DDA0028B33C /* answer button .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "answer button .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				751D128C29FD9CA50028B33C /* ContentView.swift */,
 				751D128E29FD9CA60028B33C /* Assets.xcassets */,
 				751D129029FD9CA60028B33C /* Preview Content */,
+				751D12B429FD9DDA0028B33C /* answer button .swift */,
 			);
 			path = "math game";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				751D128D29FD9CA50028B33C /* ContentView.swift in Sources */,
 				751D128B29FD9CA50028B33C /* math_gameApp.swift in Sources */,
+				751D12B529FD9DDA0028B33C /* answer button .swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
